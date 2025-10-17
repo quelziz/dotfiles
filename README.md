@@ -10,8 +10,8 @@ My Dotfiles for Hyprland (Arch). here will be my first dotfiles :p
 
 
 # TODO:
-[] Clean install of Hyprland
-[] Waybar configuration
-[] My own fastfetch config
-[] Some kind of launcher?
+- [] Clean install of Hyprland
+- [] Waybar configuration
+- [] My own fastfetch config
+- [] Some kind of launcher?
 
