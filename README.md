@@ -24,3 +24,4 @@ It will be all based on the color `#F859A1` or a retro desing. Everything will b
 - [ ] kanshi for screen configuration
 - [ ] TUIgreet
 
+quelziz nie żygaj
